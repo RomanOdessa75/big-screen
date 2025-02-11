@@ -1,0 +1,98 @@
+{
+  "payload": {
+    "campaignId": "66fd198fc0acf37088ff24b1",
+    "campaignSlug": "ignite-murrayfield",
+    "headerBackgroundColor": "#023C40",
+    "headerFontColor": "#FFFFFF",
+    "lotNumbersBackgroundColor": "#000000",
+    "lotNumbersFontColor": "#D80253",
+    "headerLeftImageUrl": "https://res.cloudinary.com/going-gone/image/upload/v1723201378/sco-fj/yx1pqgljcekkt85l9mlm.png",
+    "headerLeftImageSize": 1.8,
+    "headerRightImageUrl": "https://res.cloudinary.com/going-gone/image/upload/v1723201378/sco-fj/yx1pqgljcekkt85l9mlm.png",
+    "headerRightImageSize": 1.8,
+    "bodyBackgroundColor": "#023C40",
+    "bodyBackgroundUrl": "",
+    "title": "PLEASE BID GENEROUSLY",
+    "lotList": [
+      {
+        "title": "Scot v Ireland or Scot v Wales 2025 - Hospitality for 4 in The Claymore Club - Murrayfields brand new experience!",
+        "imageUrl": "https://res.cloudinary.com/going-gone/image/upload/v1730819897/66fd198fc0acf37088ff24b1Scot%20v%20Ireland%20or%20Scot%20v%20Wales%202025%20-%20Hospitality%20for%204%20in%20The%20Claymore%20Club%20-%20Murrayfields%20brand%20new%20experience%21/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled_Design_21_a4sz5b.png",
+        "type": "SEALED",
+        "minimumBid": 2500,
+        "bids": []
+      },
+      {
+        "title": "2* Michelin Star Experience at Glenturret for two - First restaurant of its kind worldwide!",
+        "imageUrl": "https://exceed.blueboxonline.com/portal/admhmhydrw/UserFiles/SysDocs/bb_esp_supplied_items/10000/1700/Copy of Copy of Copy of Untitled Design (1).jpg",
+        "type": "SEALED",
+        "minimumBid": 695,
+        "bids": []
+      },
+      {
+        "title": "USA Ultra Luxury City Break - Choose from The Langham Chicago, Boston, LA or NYC + Spending Money & Concierge",
+        "imageUrl": "https://exceed.blueboxonline.com/portal/admhmhydrw/UserFiles/SysDocs/bb_esp_supplied_items/10000/2232/image01ISfile.jpg",
+        "type": "SEALED",
+        "minimumBid": 1895,
+        "bids": [
+          {
+            "_id": "6730c3c351d3dbf9ff6252b1",
+            "createdAt": "2024-11-10T14:31:31.560Z",
+            "campaignUser": {
+              "_id": "6730c37451d3dbf9ff624f4c"
+            },
+            "isAnonymous": false,
+            "value": 2001,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "title": "England v Scotland 2025 - Allianz Stadium, Twickenham Match Tickets",
+        "imageUrl": "https://res.cloudinary.com/going-gone/image/upload/v1729003028/668560970e1258ccf04d7a2dEngland%20v%20Scotland%202025%20-%20Allianz%20Stadium%2C%20Twickenham%20Match%20Tickets/Lot_3_Image_1_nejaus.jpg",
+        "type": "SEALED",
+        "minimumBid": 1250,
+        "bids": []
+      },
+      {
+        "title": "Exclusive Michelin Starred Private Dining Room at HIDE, Mayfair for 4",
+        "imageUrl": "https://exceed.blueboxonline.com/portal/admhmhydrw/UserFiles/SysDocs/bb_esp_supplied_items/10000/1761/Untitled design (41).jpg",
+        "type": "SEALED",
+        "minimumBid": 595,
+        "bids": [
+          {
+            "_id": "6730d34251d3dbf9ff6304a5",
+            "createdAt": "2024-11-10T15:37:38.835Z",
+            "campaignUser": {
+              "_id": "6730c53a51d3dbf9ff626618"
+            },
+            "isAnonymous": false,
+            "value": 695,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "title": "Magical 3 Night Dom Perignon Champagne Escape for 2 to Hautvillers, France",
+        "imageUrl": "https://exceed.blueboxonline.com/portal/admhmhydrw/UserFiles/SysDocs/bb_esp_supplied_items/10000/1592/Copy of abu.jpg",
+        "type": "SEALED",
+        "minimumBid": 1095,
+        "bids": []
+      },
+      {
+        "title": "Ultra All-Inclusive Ikos & Sani Resort Exclusive Discount Voucher",
+        "imageUrl": "https://exceed.blueboxonline.com/portal/admhmhydrw/UserFiles/SysDocs/bb_esp_supplied_items/10000/914/Untitled design (23).jpg",
+        "type": "SEALED",
+        "minimumBid": 395,
+        "bids": []
+      }
+    ],
+    "headerFontSize": 1.8,
+    "currencyCode": "GBP",
+    "displayMode": "HORIZONTAL_SCROLL",
+    "displayModeToggleTime": 180000,
+    "horizontalLotCardTitleCharacterLimit": 50,
+    "horizontalLotCardFontSize": 2.8,
+    "verticalLotCardTitleCharacterLimit": 50,
+    "verticalLotCardFontSize": 6
+  }
+}
